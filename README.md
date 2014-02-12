@@ -3,7 +3,7 @@ Chess Board Tracker
 
 OpenFrameworks sketch which uses a chess-board as a drum-machine / sample tracker.
 
-See more here : http://www.doc.gold.ac.uk/~ma001pj/chess_board_tracker/index.html
+See more here : http://nooranch.com/synaesmedia/portfolio/chess_board_tracker/index.html
 
 Note you'll need a couple of openFrameworks extensions installed in your project, including
 
